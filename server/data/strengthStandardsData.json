@@ -1,0 +1,165 @@
+[
+  {
+    "exerciseKey": "squat",
+    "exerciseName": "Barbell Back Squat",
+    "sex": "male",
+    "weightBrackets": [
+      { "bodyWeightKg": 52, "untrained": 38, "novice": 58, "intermediate": 75, "proficient": 95, "advanced": 115, "elite": 138 },
+      { "bodyWeightKg": 60, "untrained": 48, "novice": 72, "intermediate": 92, "proficient": 115, "advanced": 140, "elite": 168 },
+      { "bodyWeightKg": 67, "untrained": 56, "novice": 83, "intermediate": 106, "proficient": 132, "advanced": 160, "elite": 190 },
+      { "bodyWeightKg": 75, "untrained": 65, "novice": 95, "intermediate": 120, "proficient": 148, "advanced": 180, "elite": 212 },
+      { "bodyWeightKg": 82.5, "untrained": 72, "novice": 105, "intermediate": 132, "proficient": 162, "advanced": 196, "elite": 230 },
+      { "bodyWeightKg": 90, "untrained": 78, "novice": 113, "intermediate": 142, "proficient": 174, "advanced": 210, "elite": 245 },
+      { "bodyWeightKg": 100, "untrained": 85, "novice": 122, "intermediate": 153, "proficient": 187, "advanced": 224, "elite": 260 },
+      { "bodyWeightKg": 110, "untrained": 90, "novice": 130, "intermediate": 162, "proficient": 198, "advanced": 236, "elite": 272 },
+      { "bodyWeightKg": 125, "untrained": 96, "novice": 138, "intermediate": 172, "proficient": 210, "advanced": 248, "elite": 285 },
+      { "bodyWeightKg": 140, "untrained": 102, "novice": 144, "intermediate": 180, "proficient": 218, "advanced": 258, "elite": 295 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "squat",
+    "exerciseName": "Barbell Back Squat",
+    "sex": "female",
+    "weightBrackets": [
+      { "bodyWeightKg": 44, "untrained": 22, "novice": 35, "intermediate": 48, "proficient": 62, "advanced": 76, "elite": 92 },
+      { "bodyWeightKg": 52, "untrained": 28, "novice": 43, "intermediate": 58, "proficient": 74, "advanced": 90, "elite": 108 },
+      { "bodyWeightKg": 60, "untrained": 34, "novice": 50, "intermediate": 67, "proficient": 85, "advanced": 103, "elite": 124 },
+      { "bodyWeightKg": 67, "untrained": 38, "novice": 56, "intermediate": 74, "proficient": 94, "advanced": 114, "elite": 136 },
+      { "bodyWeightKg": 75, "untrained": 43, "novice": 62, "intermediate": 82, "proficient": 103, "advanced": 124, "elite": 148 },
+      { "bodyWeightKg": 82.5, "untrained": 47, "novice": 67, "intermediate": 88, "proficient": 111, "advanced": 133, "elite": 158 },
+      { "bodyWeightKg": 90, "untrained": 51, "novice": 72, "intermediate": 94, "proficient": 118, "advanced": 141, "elite": 166 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "bench_press",
+    "exerciseName": "Barbell Bench Press",
+    "sex": "male",
+    "weightBrackets": [
+      { "bodyWeightKg": 52, "untrained": 32, "novice": 48, "intermediate": 60, "proficient": 76, "advanced": 92, "elite": 112 },
+      { "bodyWeightKg": 60, "untrained": 40, "novice": 58, "intermediate": 72, "proficient": 90, "advanced": 110, "elite": 132 },
+      { "bodyWeightKg": 67, "untrained": 47, "novice": 67, "intermediate": 82, "proficient": 102, "advanced": 124, "elite": 148 },
+      { "bodyWeightKg": 75, "untrained": 54, "novice": 76, "intermediate": 93, "proficient": 115, "advanced": 138, "elite": 164 },
+      { "bodyWeightKg": 82.5, "untrained": 60, "novice": 84, "intermediate": 102, "proficient": 126, "advanced": 150, "elite": 177 },
+      { "bodyWeightKg": 90, "untrained": 65, "novice": 90, "intermediate": 110, "proficient": 135, "advanced": 160, "elite": 188 },
+      { "bodyWeightKg": 100, "untrained": 70, "novice": 97, "intermediate": 118, "proficient": 144, "advanced": 170, "elite": 198 },
+      { "bodyWeightKg": 110, "untrained": 74, "novice": 102, "intermediate": 124, "proficient": 151, "advanced": 178, "elite": 206 },
+      { "bodyWeightKg": 125, "untrained": 78, "novice": 107, "intermediate": 130, "proficient": 158, "advanced": 186, "elite": 214 },
+      { "bodyWeightKg": 140, "untrained": 81, "novice": 111, "intermediate": 135, "proficient": 164, "advanced": 192, "elite": 220 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "bench_press",
+    "exerciseName": "Barbell Bench Press",
+    "sex": "female",
+    "weightBrackets": [
+      { "bodyWeightKg": 44, "untrained": 14, "novice": 23, "intermediate": 31, "proficient": 40, "advanced": 50, "elite": 62 },
+      { "bodyWeightKg": 52, "untrained": 18, "novice": 28, "intermediate": 37, "proficient": 48, "advanced": 59, "elite": 72 },
+      { "bodyWeightKg": 60, "untrained": 22, "novice": 33, "intermediate": 43, "proficient": 55, "advanced": 67, "elite": 81 },
+      { "bodyWeightKg": 67, "untrained": 25, "novice": 37, "intermediate": 48, "proficient": 61, "advanced": 73, "elite": 88 },
+      { "bodyWeightKg": 75, "untrained": 28, "novice": 41, "intermediate": 53, "proficient": 66, "advanced": 80, "elite": 95 },
+      { "bodyWeightKg": 82.5, "untrained": 31, "novice": 44, "intermediate": 57, "proficient": 71, "advanced": 85, "elite": 101 },
+      { "bodyWeightKg": 90, "untrained": 33, "novice": 47, "intermediate": 60, "proficient": 75, "advanced": 90, "elite": 106 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "deadlift",
+    "exerciseName": "Conventional Deadlift",
+    "sex": "male",
+    "weightBrackets": [
+      { "bodyWeightKg": 52, "untrained": 48, "novice": 76, "intermediate": 98, "proficient": 125, "advanced": 154, "elite": 184 },
+      { "bodyWeightKg": 60, "untrained": 60, "novice": 94, "intermediate": 120, "proficient": 150, "advanced": 182, "elite": 216 },
+      { "bodyWeightKg": 67, "untrained": 70, "novice": 108, "intermediate": 136, "proficient": 170, "advanced": 204, "elite": 240 },
+      { "bodyWeightKg": 75, "untrained": 80, "novice": 122, "intermediate": 152, "proficient": 188, "advanced": 226, "elite": 264 },
+      { "bodyWeightKg": 82.5, "untrained": 88, "novice": 133, "intermediate": 165, "proficient": 202, "advanced": 242, "elite": 282 },
+      { "bodyWeightKg": 90, "untrained": 95, "novice": 142, "intermediate": 176, "proficient": 214, "advanced": 255, "elite": 296 },
+      { "bodyWeightKg": 100, "untrained": 102, "novice": 152, "intermediate": 188, "proficient": 227, "advanced": 268, "elite": 310 },
+      { "bodyWeightKg": 110, "untrained": 108, "novice": 159, "intermediate": 196, "proficient": 236, "advanced": 278, "elite": 320 },
+      { "bodyWeightKg": 125, "untrained": 114, "novice": 166, "intermediate": 204, "proficient": 245, "advanced": 288, "elite": 330 },
+      { "bodyWeightKg": 140, "untrained": 118, "novice": 170, "intermediate": 210, "proficient": 250, "advanced": 294, "elite": 336 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "deadlift",
+    "exerciseName": "Conventional Deadlift",
+    "sex": "female",
+    "weightBrackets": [
+      { "bodyWeightKg": 44, "untrained": 28, "novice": 44, "intermediate": 60, "proficient": 78, "advanced": 98, "elite": 120 },
+      { "bodyWeightKg": 52, "untrained": 36, "novice": 54, "intermediate": 72, "proficient": 92, "advanced": 115, "elite": 138 },
+      { "bodyWeightKg": 60, "untrained": 42, "novice": 62, "intermediate": 82, "proficient": 104, "advanced": 128, "elite": 154 },
+      { "bodyWeightKg": 67, "untrained": 48, "novice": 69, "intermediate": 90, "proficient": 114, "advanced": 139, "elite": 166 },
+      { "bodyWeightKg": 75, "untrained": 54, "novice": 76, "intermediate": 98, "proficient": 123, "advanced": 149, "elite": 178 },
+      { "bodyWeightKg": 82.5, "untrained": 59, "novice": 82, "intermediate": 105, "proficient": 131, "advanced": 158, "elite": 188 },
+      { "bodyWeightKg": 90, "untrained": 63, "novice": 87, "intermediate": 111, "proficient": 138, "advanced": 166, "elite": 196 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "overhead_press",
+    "exerciseName": "Standing Overhead Press (OHP)",
+    "sex": "male",
+    "weightBrackets": [
+      { "bodyWeightKg": 52, "untrained": 20, "novice": 30, "intermediate": 38, "proficient": 48, "advanced": 58, "elite": 70 },
+      { "bodyWeightKg": 60, "untrained": 25, "novice": 36, "intermediate": 46, "proficient": 58, "advanced": 70, "elite": 84 },
+      { "bodyWeightKg": 67, "untrained": 29, "novice": 42, "intermediate": 52, "proficient": 65, "advanced": 78, "elite": 94 },
+      { "bodyWeightKg": 75, "untrained": 33, "novice": 47, "intermediate": 58, "proficient": 72, "advanced": 86, "elite": 102 },
+      { "bodyWeightKg": 82.5, "untrained": 37, "novice": 51, "intermediate": 63, "proficient": 78, "advanced": 93, "elite": 109 },
+      { "bodyWeightKg": 90, "untrained": 40, "novice": 55, "intermediate": 67, "proficient": 83, "advanced": 98, "elite": 115 },
+      { "bodyWeightKg": 100, "untrained": 43, "novice": 59, "intermediate": 72, "proficient": 88, "advanced": 104, "elite": 121 },
+      { "bodyWeightKg": 110, "untrained": 45, "novice": 62, "intermediate": 75, "proficient": 92, "advanced": 108, "elite": 125 },
+      { "bodyWeightKg": 125, "untrained": 47, "novice": 64, "intermediate": 78, "proficient": 95, "advanced": 111, "elite": 128 },
+      { "bodyWeightKg": 140, "untrained": 49, "novice": 66, "intermediate": 80, "proficient": 97, "advanced": 113, "elite": 130 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "overhead_press",
+    "exerciseName": "Standing Overhead Press (OHP)",
+    "sex": "female",
+    "weightBrackets": [
+      { "bodyWeightKg": 44, "untrained": 10, "novice": 15, "intermediate": 20, "proficient": 26, "advanced": 33, "elite": 42 },
+      { "bodyWeightKg": 52, "untrained": 12, "novice": 18, "intermediate": 24, "proficient": 31, "advanced": 39, "elite": 48 },
+      { "bodyWeightKg": 60, "untrained": 14, "novice": 21, "intermediate": 28, "proficient": 36, "advanced": 44, "elite": 54 },
+      { "bodyWeightKg": 67, "untrained": 16, "novice": 23, "intermediate": 31, "proficient": 39, "advanced": 48, "elite": 58 },
+      { "bodyWeightKg": 75, "untrained": 18, "novice": 25, "intermediate": 33, "proficient": 42, "advanced": 51, "elite": 62 },
+      { "bodyWeightKg": 82.5, "untrained": 19, "novice": 27, "intermediate": 35, "proficient": 44, "advanced": 54, "elite": 65 },
+      { "bodyWeightKg": 90, "untrained": 20, "novice": 28, "intermediate": 37, "proficient": 46, "advanced": 56, "elite": 67 }
+    ],
+    "sourceCitation": "Empirical powerlifting normative tables (ExRx / Dr. Lon Kilgore / Rippetoe standard distributions)"
+  },
+  {
+    "exerciseKey": "pull_up",
+    "exerciseName": "Pull-Up (Max Reps / Total Load Kg)",
+    "sex": "male",
+    "weightBrackets": [
+      { "bodyWeightKg": 52, "untrained": 52, "novice": 62, "intermediate": 74, "proficient": 86, "advanced": 100, "elite": 118 },
+      { "bodyWeightKg": 60, "untrained": 60, "novice": 72, "intermediate": 85, "proficient": 99, "advanced": 115, "elite": 134 },
+      { "bodyWeightKg": 67, "untrained": 67, "novice": 79, "intermediate": 93, "proficient": 108, "advanced": 125, "elite": 145 },
+      { "bodyWeightKg": 75, "untrained": 75, "novice": 87, "intermediate": 102, "proficient": 118, "advanced": 136, "elite": 156 },
+      { "bodyWeightKg": 82.5, "untrained": 82.5, "novice": 95, "intermediate": 110, "proficient": 127, "advanced": 145, "elite": 166 },
+      { "bodyWeightKg": 90, "untrained": 90, "novice": 102, "intermediate": 117, "proficient": 134, "advanced": 152, "elite": 173 },
+      { "bodyWeightKg": 100, "untrained": 100, "novice": 111, "intermediate": 125, "proficient": 142, "advanced": 160, "elite": 181 },
+      { "bodyWeightKg": 110, "untrained": 110, "novice": 120, "intermediate": 133, "proficient": 149, "advanced": 167, "elite": 188 }
+    ],
+    "sourceCitation": "Normative bodyweight strength matrices adjusted for external load"
+  },
+  {
+    "exerciseKey": "barbell_row",
+    "exerciseName": "Bent-Over Barbell Row",
+    "sex": "male",
+    "weightBrackets": [
+      { "bodyWeightKg": 52, "untrained": 26, "novice": 40, "intermediate": 52, "proficient": 66, "advanced": 80, "elite": 98 },
+      { "bodyWeightKg": 60, "untrained": 33, "novice": 48, "intermediate": 62, "proficient": 78, "advanced": 95, "elite": 115 },
+      { "bodyWeightKg": 67, "untrained": 39, "novice": 56, "intermediate": 70, "proficient": 88, "advanced": 106, "elite": 128 },
+      { "bodyWeightKg": 75, "untrained": 45, "novice": 63, "intermediate": 78, "proficient": 98, "advanced": 118, "elite": 140 },
+      { "bodyWeightKg": 82.5, "untrained": 50, "novice": 70, "intermediate": 86, "proficient": 106, "advanced": 127, "elite": 150 },
+      { "bodyWeightKg": 90, "untrained": 54, "novice": 75, "intermediate": 92, "proficient": 113, "advanced": 135, "elite": 158 },
+      { "bodyWeightKg": 100, "untrained": 58, "novice": 80, "intermediate": 98, "proficient": 120, "advanced": 142, "elite": 166 }
+    ],
+    "sourceCitation": "Empirical powerlifting and athletic training normative tables"
+  }
+]

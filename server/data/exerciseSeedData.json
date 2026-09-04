@@ -1,0 +1,642 @@
+[
+  {
+    "slug": "barbell_back_squat",
+    "name": "Barbell Back Squat",
+    "category": "quads",
+    "movementPattern": "squat",
+    "primaryMuscles": ["Quadriceps", "Glutes"],
+    "secondaryMuscles": ["Hamstrings", "Erector Spinae", "Core"],
+    "equipmentRequired": "barbell",
+    "tier": 1,
+    "injuryRiskAreas": ["lower_back", "knee"],
+    "cues": [
+      "Set feet slightly wider than shoulder-width, toes angled outward 15-30 degrees.",
+      "Brace core deeply with 360-degree intra-abdominal pressure.",
+      "Initiate by breaking at knees and hips simultaneously.",
+      "Descend until hip crease is below the top of the patella (parallel or below).",
+      "Drive through midfoot, keeping chest proud and knees tracking over toes."
+    ],
+    "commonMistakes": [
+      "Knee valgus (knees caving inward during ascent)",
+      "Excessive forward torso collapse or 'good-morning' squatting",
+      "Heels lifting off the platform"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "barbell_bench_press",
+    "name": "Barbell Bench Press",
+    "category": "chest",
+    "movementPattern": "horizontal_push",
+    "primaryMuscles": ["Pectoralis Major"],
+    "secondaryMuscles": ["Anterior Deltoids", "Triceps Brachii", "Serratus Anterior"],
+    "equipmentRequired": "barbell",
+    "tier": 1,
+    "injuryRiskAreas": ["shoulder", "wrist"],
+    "cues": [
+      "Establish 5 points of contact: head, upper back, glutes, left foot, right foot.",
+      "Retract and depress scapulae to create a stable pressing foundation.",
+      "Grip bar with thumbs wrapped, wrists stacked neutral directly above elbows.",
+      "Lower bar under control to lower sternum/nipple line with elbows at ~45-70 degrees.",
+      "Press explosively back up and slightly backward over the glenohumeral joint."
+    ],
+    "commonMistakes": [
+      "Excessive elbow flaring to 90 degrees putting high shear on shoulders",
+      "Bouncing the bar off the rib cage",
+      "Lifting glutes off the bench during heavy effort"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1534367507873-d2d7e24c797f?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "conventional_deadlift",
+    "name": "Conventional Deadlift",
+    "category": "back",
+    "movementPattern": "hinge",
+    "primaryMuscles": ["Glutes", "Hamstrings", "Erector Spinae"],
+    "secondaryMuscles": ["Quadriceps", "Trapezius", "Forearms", "Latissimus Dorsi"],
+    "equipmentRequired": "barbell",
+    "tier": 1,
+    "injuryRiskAreas": ["lower_back"],
+    "cues": [
+      "Stance hip-width apart, bar over midfoot (approx 1 inch from shins).",
+      "Hinge at hips to grip bar just outside shins without moving the bar.",
+      "Pull chest tall, pull slack out of the bar, lock lats down into back pockets.",
+      "Drive floor away through midfoot, extending knees and hips synchronously.",
+      "Lock out hips tall with glute contraction without hyperextending lumbar spine."
+    ],
+    "commonMistakes": [
+      "Rounding lumbar spine under heavy loading",
+      "Bar drifting away from the body during ascent",
+      "Jerking the bar before taking the slack out"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "overhead_press",
+    "name": "Standing Overhead Press (OHP)",
+    "category": "shoulders",
+    "movementPattern": "vertical_push",
+    "primaryMuscles": ["Anterior Deltoids", "Lateral Deltoids"],
+    "secondaryMuscles": ["Triceps Brachii", "Upper Pectorals", "Upper Trapezius", "Core"],
+    "equipmentRequired": "barbell",
+    "tier": 1,
+    "injuryRiskAreas": ["shoulder", "lower_back"],
+    "cues": [
+      "Grip bar just outside shoulder width with vertical forearms.",
+      "Squeeze glutes and brace core to establish a rigid pillar.",
+      "Pull chin back slightly to clear the bar path as you press vertically.",
+      "Once bar clears forehead, press through and lock out directly over cervical spine.",
+      "Shrug traps gently at the top for full upward rotation of scapulae."
+    ],
+    "commonMistakes": [
+      "Excessive lumbar hyperextension (leaning back into a faux-incline press)",
+      "Elbows flaring outward instead of tracking slightly in front of bar in rack position",
+      "Failing to lock out overhead"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "pull_up",
+    "name": "Pull-Up",
+    "category": "back",
+    "movementPattern": "vertical_pull",
+    "primaryMuscles": ["Latissimus Dorsi", "Teres Major"],
+    "secondaryMuscles": ["Biceps Brachii", "Brachialis", "Rhomboids", "Lower Trapezius", "Core"],
+    "equipmentRequired": "bodyweight",
+    "tier": 1,
+    "injuryRiskAreas": ["shoulder", "elbow"],
+    "cues": [
+      "Pronated grip slightly wider than shoulder width.",
+      "Start from a dead hang with engaged scapular depression.",
+      "Pull elbows down and back toward your hip pockets.",
+      "Drive chin above bar without kipping or swinging legs.",
+      "Lower with a controlled 2-3 second eccentric down to full extension."
+    ],
+    "commonMistakes": [
+      "Kipping or relying on momentum",
+      "Partial range of motion (failing to reach full dead hang at bottom)",
+      "Reaching forward with chin instead of pulling chest toward bar"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "barbell_row",
+    "name": "Bent-Over Barbell Row",
+    "category": "back",
+    "movementPattern": "horizontal_pull",
+    "primaryMuscles": ["Latissimus Dorsi", "Rhomboids", "Middle Trapezius"],
+    "secondaryMuscles": ["Biceps Brachii", "Rear Deltoids", "Erector Spinae"],
+    "equipmentRequired": "barbell",
+    "tier": 1,
+    "injuryRiskAreas": ["lower_back"],
+    "cues": [
+      "Hinge torso forward to ~45 degrees or parallel to ground with neutral spine.",
+      "Grip bar with hands shoulder-width apart.",
+      "Pull bar toward lower rib cage / belly button, leading with elbows.",
+      "Squeeze shoulder blades together at the apex.",
+      "Lower under control without bouncing torso."
+    ],
+    "commonMistakes": [
+      "Using excessive body English / jerking torso upward to heave weight",
+      "Rounding spine at bottom of pull",
+      "Pulling too high to upper chest and shrugging shoulders"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "romanian_deadlift",
+    "name": "Romanian Deadlift (RDL)",
+    "category": "hamstrings",
+    "movementPattern": "hinge",
+    "primaryMuscles": ["Hamstrings", "Glutes"],
+    "secondaryMuscles": ["Erector Spinae", "Trapezius", "Forearms"],
+    "equipmentRequired": "barbell",
+    "tier": 2,
+    "injuryRiskAreas": ["lower_back"],
+    "cues": [
+      "Stand tall, soft bend in knees (keep knee angle fixed throughout).",
+      "Push hips backward as if reaching for a wall behind you.",
+      "Keep bar in continuous contact with thighs/shins as you descend.",
+      "Descend until hamstrings reach peak stretch (typically just below knees).",
+      "Drive hips forward and squeeze glutes to return to standing."
+    ],
+    "commonMistakes": [
+      "Squatting the weight down rather than hinging at hips",
+      "Allowing bar to drift away from legs",
+      "Rounding lower back to artificially gain range of motion"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "bulgarian_split_squat",
+    "name": "Dumbbell Bulgarian Split Squat",
+    "category": "quads",
+    "movementPattern": "lunge",
+    "primaryMuscles": ["Quadriceps", "Glutes"],
+    "secondaryMuscles": ["Hamstrings", "Adductors", "Calves", "Core"],
+    "equipmentRequired": "dumbbell",
+    "tier": 2,
+    "injuryRiskAreas": ["knee"],
+    "cues": [
+      "Elevate rear foot on bench or box behind you (~12-18 inches high).",
+      "Position front foot so your front knee stays roughly over midfoot/ankle.",
+      "Descend straight down until rear knee approaches floor.",
+      "Maintain slight forward torso lean to load target glute and quad.",
+      "Push through front midfoot/heel to rise."
+    ],
+    "commonMistakes": [
+      "Placing front foot too close causing extreme heel lift",
+      "Collapsing knee inward on descent",
+      "Arching lower back excessively"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1434725039720-aaad6dd32dfe?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "dumbbell_incline_press",
+    "name": "Incline Dumbbell Bench Press",
+    "category": "chest",
+    "movementPattern": "horizontal_push",
+    "primaryMuscles": ["Upper Pectoralis (Clavicular Head)"],
+    "secondaryMuscles": ["Anterior Deltoids", "Triceps Brachii"],
+    "equipmentRequired": "dumbbell",
+    "tier": 2,
+    "injuryRiskAreas": ["shoulder"],
+    "cues": [
+      "Set bench at 30-45 degree incline angle.",
+      "Kick dumbbells up to shoulder position and retract shoulder blades.",
+      "Press dumbbells up in a slight arc, bringing them closer at top without clanking.",
+      "Lower under control until you feel a deep, comfortable stretch in upper chest."
+    ],
+    "commonMistakes": [
+      "Bench angle too steep (>45 deg) turning lift into a shoulder press",
+      "Excessive arching of lower back off the bench",
+      "Letting dumbbells flare too wide at the bottom"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "neutral_grip_dumbbell_press",
+    "name": "Neutral Grip Dumbbell Shoulder Press",
+    "category": "shoulders",
+    "movementPattern": "vertical_push",
+    "primaryMuscles": ["Anterior Deltoids", "Lateral Deltoids"],
+    "secondaryMuscles": ["Triceps Brachii", "Upper Trapezius"],
+    "equipmentRequired": "dumbbell",
+    "tier": 2,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Sit upright with back supported or stand tall with engaged core.",
+      "Hold dumbbells with palms facing each other (neutral grip).",
+      "Press dumbbells directly upward over shoulders.",
+      "Lower under control with elbows tracking in the scapular plane (45 degrees forward)."
+    ],
+    "commonMistakes": [
+      "Flaring elbows wide",
+      "Leaning back excessively on seated bench"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "lat_pulldown",
+    "name": "Cable Lat Pulldown",
+    "category": "back",
+    "movementPattern": "vertical_pull",
+    "primaryMuscles": ["Latissimus Dorsi"],
+    "secondaryMuscles": ["Biceps Brachii", "Brachialis", "Rear Deltoids", "Rhomboids"],
+    "equipmentRequired": "cable",
+    "tier": 2,
+    "injuryRiskAreas": ["shoulder"],
+    "cues": [
+      "Secure thighs snugly under knee pads.",
+      "Grip wide bar with overhand grip.",
+      "Slightly lean back (10-15 degrees), depress scapulae, and pull bar to upper chest.",
+      "Squeeze lats firmly at bottom before smoothly returning to full overhead stretch."
+    ],
+    "commonMistakes": [
+      "Swinging torso excessively backward using momentum",
+      "Pulling bar behind the neck (high cervical/shoulder impingement risk)",
+      "Not allowing arms to fully extend at the top"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "seated_cable_row",
+    "name": "Seated Cable Row",
+    "category": "back",
+    "movementPattern": "horizontal_pull",
+    "primaryMuscles": ["Rhomboids", "Middle Trapezius", "Latissimus Dorsi"],
+    "secondaryMuscles": ["Biceps Brachii", "Rear Deltoids", "Erector Spinae"],
+    "equipmentRequired": "cable",
+    "tier": 2,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Sit tall with slight knee flexion and feet firmly on footplates.",
+      "Hinge slightly forward at hip for a good stretch, then return to neutral upright torso.",
+      "Drive elbows back past torso, pulling attachment into lower abdomen.",
+      "Pinch shoulder blades together for 1 full second."
+    ],
+    "commonMistakes": [
+      "Excessive rocking / swinging back and forth",
+      "Shrugging shoulders into ears",
+      "Rounding spine during the stretch"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "leg_press",
+    "name": "45-Degree Incline Leg Press",
+    "category": "quads",
+    "movementPattern": "squat",
+    "primaryMuscles": ["Quadriceps", "Glutes"],
+    "secondaryMuscles": ["Hamstrings", "Calves"],
+    "equipmentRequired": "machine",
+    "tier": 2,
+    "injuryRiskAreas": ["knee", "lower_back"],
+    "cues": [
+      "Sit firmly back against seat with lower back and sacrum flat against pad.",
+      "Place feet shoulder-width on sled platform.",
+      "Unlock safety handles and lower weight until knees reach ~90 degrees.",
+      "Press smoothly through whole foot without locking knees out harshly at top."
+    ],
+    "commonMistakes": [
+      "Letting lower back curl/peel off the backrest at the bottom (pelvic tilt)",
+      "Violently snapping/hyperextending knees at the top",
+      "Using hands on knees to push the weight"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "lying_leg_curl",
+    "name": "Lying Hamstring Leg Curl",
+    "category": "hamstrings",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Hamstrings"],
+    "secondaryMuscles": ["Gastrocnemius"],
+    "equipmentRequired": "machine",
+    "tier": 3,
+    "injuryRiskAreas": ["knee"],
+    "cues": [
+      "Position pad just above Achilles tendon/heels.",
+      "Keep hips pressed down into bench throughout movement.",
+      "Curl legs upward towards glutes, feeling deep hamstring contraction.",
+      "Lower under control over 2-3 seconds."
+    ],
+    "commonMistakes": [
+      "Lifting hips off bench to use hip flexors/momentum",
+      "Jerking the weight quickly",
+      "Incomplete range of motion"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "leg_extension",
+    "name": "Leg Extension Machine",
+    "category": "quads",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Quadriceps"],
+    "secondaryMuscles": [],
+    "equipmentRequired": "machine",
+    "tier": 3,
+    "injuryRiskAreas": ["knee"],
+    "cues": [
+      "Align machine pivot point directly with knee joints.",
+      "Pad should sit comfortably on lower shins just above ankles.",
+      "Extend legs until knees are straight, pausing for 1 second at full contraction.",
+      "Lower slowly under control."
+    ],
+    "commonMistakes": [
+      "Kicking the weight up with jerky speed",
+      "Seat position misaligned with knee axis",
+      "Shortening range of motion"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "dumbbell_lateral_raise",
+    "name": "Dumbbell Lateral Raise",
+    "category": "shoulders",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Lateral Deltoids"],
+    "secondaryMuscles": ["Upper Trapezius", "Anterior Deltoids"],
+    "equipmentRequired": "dumbbell",
+    "tier": 3,
+    "injuryRiskAreas": ["shoulder"],
+    "cues": [
+      "Stand with slight forward torso lean (10-15 degrees).",
+      "Slight bend in elbows, raise dumbbells in scapular plane (slightly forward of torso).",
+      "Lead with elbows up to shoulder level (parallel to floor).",
+      "Control the descent over 2-3 seconds."
+    ],
+    "commonMistakes": [
+      "Using heavy momentum and swinging hips",
+      "Shrugging traps before lifting arms",
+      "Raising hands higher than elbows"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "incline_dumbbell_bicep_curl",
+    "name": "Incline Dumbbell Bicep Curl",
+    "category": "arms",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Biceps Brachii (Long Head)"],
+    "secondaryMuscles": ["Brachialis", "Forearms"],
+    "equipmentRequired": "dumbbell",
+    "tier": 3,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Set bench to 45-60 degree incline.",
+      "Let arms hang straight down for full passive bicep stretch.",
+      "Curl dumbbells up while keeping elbows pinned in place behind torso.",
+      "Supinate wrists (turn palms toward ceiling) as you curl.",
+      "Lower slowly to full bottom stretch."
+    ],
+    "commonMistakes": [
+      "Swinging elbows forward to engage front delts",
+      "Cutting bottom stretch short"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "tricep_rope_pushdown",
+    "name": "Cable Tricep Rope Pushdown",
+    "category": "arms",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Triceps Brachii (Lateral & Medial Heads)"],
+    "secondaryMuscles": [],
+    "equipmentRequired": "cable",
+    "tier": 3,
+    "injuryRiskAreas": ["elbow"],
+    "cues": [
+      "Stand with knees slightly bent, torso leaning forward 10 degrees.",
+      "Pin elbows tightly by your sides.",
+      "Push rope down and spread ends apart at bottom for peak contraction.",
+      "Return slowly until forearms are slightly above parallel with floor."
+    ],
+    "commonMistakes": [
+      "Allowing elbows to flare or drift forward and backward",
+      "Using body weight to push down rather than triceps"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1534367507873-d2d7e24c797f?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "hanging_leg_raise",
+    "name": "Hanging Knee/Leg Raise",
+    "category": "core",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Rectus Abdominis", "Hip Flexors"],
+    "secondaryMuscles": ["Obliques", "Forearms / Grip"],
+    "equipmentRequired": "bodyweight",
+    "tier": 3,
+    "injuryRiskAreas": ["lower_back"],
+    "cues": [
+      "Hang from pull-up bar with overhand grip and engaged shoulders.",
+      "Roll pelvis upward and curl knees/toes toward chest.",
+      "Focus on flexing spine with abdominal contraction rather than just swinging hip flexors.",
+      "Lower under control without swinging."
+    ],
+    "commonMistakes": [
+      "Swinging body like a pendulum",
+      "Only moving hip flexors without posterior pelvic tilt"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "plank",
+    "name": "RKC Core Plank",
+    "category": "core",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Transverse Abdominis", "Rectus Abdominis"],
+    "secondaryMuscles": ["Glutes", "Shoulders", "Quads"],
+    "equipmentRequired": "bodyweight",
+    "tier": 3,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Elbows directly under shoulders, forearms parallel.",
+      "Lock knees, squeeze glutes, and tuck pelvis (posterior pelvic tilt).",
+      "Actively pull elbows toward toes to generate maximal isometric tension.",
+      "Breathe steadily while maintaining abdominal brace."
+    ],
+    "commonMistakes": [
+      "Sagging lower back / anterior pelvic tilt",
+      "Piking hips up in the air",
+      "Holding breath"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "dumbbell_goblet_squat",
+    "name": "Dumbbell Goblet Squat",
+    "category": "quads",
+    "movementPattern": "squat",
+    "primaryMuscles": ["Quadriceps", "Glutes"],
+    "secondaryMuscles": ["Core", "Upper Back", "Hamstrings"],
+    "equipmentRequired": "dumbbell",
+    "tier": 2,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Hold dumbbell vertically against chest with both palms cupping the top head.",
+      "Feet shoulder-width apart, toes turned slightly out.",
+      "Squat deeply between knees, keeping chest tall and elbows inside knees.",
+      "Push floor away through midfoot to stand."
+    ],
+    "commonMistakes": [
+      "Holding dumbbell too far away from chest",
+      "Rounding upper back"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "push_up",
+    "name": "Standard Push-Up",
+    "category": "chest",
+    "movementPattern": "horizontal_push",
+    "primaryMuscles": ["Pectoralis Major"],
+    "secondaryMuscles": ["Anterior Deltoids", "Triceps Brachii", "Core"],
+    "equipmentRequired": "bodyweight",
+    "tier": 2,
+    "injuryRiskAreas": ["wrist", "shoulder"],
+    "cues": [
+      "Hands placed slightly wider than shoulders, fingers spread.",
+      "Body in rigid plank from head to heels.",
+      "Lower until chest grazes floor with elbows at 45 degrees.",
+      "Press fully up to lockout, pushing through upper back."
+    ],
+    "commonMistakes": [
+      "Sagging hips",
+      "Flaring elbows 90 degrees",
+      "Half-reps not touching chest"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1534367507873-d2d7e24c797f?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "dumbbell_single_arm_row",
+    "name": "Single-Arm Dumbbell Row",
+    "category": "back",
+    "movementPattern": "horizontal_pull",
+    "primaryMuscles": ["Latissimus Dorsi", "Rhomboids"],
+    "secondaryMuscles": ["Biceps Brachii", "Rear Delts", "Core"],
+    "equipmentRequired": "dumbbell",
+    "tier": 2,
+    "injuryRiskAreas": [],
+    "cues": [
+      "One knee and hand on flat bench (or standing staggered hinge).",
+      "Flat back parallel to floor.",
+      "Pull dumbbell up towards hip pocket, keeping elbow close to side.",
+      "Lower to a full, controlled lat stretch at the bottom."
+    ],
+    "commonMistakes": [
+      "Twisting torso excessively to heave the dumbbell",
+      "Pulling to shoulder instead of hip"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "dumbbell_romanian_deadlift",
+    "name": "Dumbbell Romanian Deadlift",
+    "category": "hamstrings",
+    "movementPattern": "hinge",
+    "primaryMuscles": ["Hamstrings", "Glutes"],
+    "secondaryMuscles": ["Erector Spinae", "Forearms"],
+    "equipmentRequired": "dumbbell",
+    "tier": 2,
+    "injuryRiskAreas": ["lower_back"],
+    "cues": [
+      "Hold dumbbells in front of thighs with neutral grip.",
+      "Push hips backward while keeping dumbbells tight to shins.",
+      "Feel deep hamstring stretch just below knee level.",
+      "Squeeze glutes to stand tall."
+    ],
+    "commonMistakes": [
+      "Rounding spine",
+      "Squatting down instead of hinging hips back"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "band_pull_apart",
+    "name": "Resistance Band Pull-Apart",
+    "category": "shoulders",
+    "movementPattern": "isolation",
+    "primaryMuscles": ["Rear Deltoids", "Rhomboids"],
+    "secondaryMuscles": ["Middle Trapezius", "Rotator Cuff"],
+    "equipmentRequired": "band",
+    "tier": 3,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Hold band at shoulder height with arms straight.",
+      "Pull band apart until it touches chest by squeezing shoulder blades.",
+      "Hold 1 second, then control back to start."
+    ],
+    "commonMistakes": [
+      "Shrugging shoulders upward",
+      "Bending elbows excessively"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "resistance_band_squat",
+    "name": "Resistance Band Squat",
+    "category": "quads",
+    "movementPattern": "squat",
+    "primaryMuscles": ["Quadriceps", "Glutes"],
+    "secondaryMuscles": ["Hamstrings", "Core"],
+    "equipmentRequired": "band",
+    "tier": 2,
+    "injuryRiskAreas": ["knee"],
+    "cues": [
+      "Stand on loop band with feet shoulder-width, bring top of band over shoulders in rack position.",
+      "Squat to parallel or below against progressive elastic tension.",
+      "Drive up forcefully to full standing lockout."
+    ],
+    "commonMistakes": [
+      "Letting band pull chest forward",
+      "Knees collapsing inward"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "trap_bar_deadlift",
+    "name": "Trap Bar (Hex Bar) Deadlift",
+    "category": "back",
+    "movementPattern": "hinge",
+    "primaryMuscles": ["Glutes", "Quadriceps", "Hamstrings", "Erector Spinae"],
+    "secondaryMuscles": ["Trapezius", "Forearms", "Core"],
+    "equipmentRequired": "barbell",
+    "tier": 1,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Step inside hex bar, feet hip-to-shoulder width.",
+      "Hinge and bend knees to grasp neutral handles.",
+      "Set chest high, brace core, and drive through midfoot.",
+      "Stand upright to full hip extension without hyperextending."
+    ],
+    "commonMistakes": [
+      "Rounding upper back",
+      "Jerking arms at initiation"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "slug": "cable_face_pull",
+    "name": "Cable Face Pull",
+    "category": "shoulders",
+    "movementPattern": "horizontal_pull",
+    "primaryMuscles": ["Rear Deltoids", "Rotator Cuff (Infraspinatus, Teres Minor)"],
+    "secondaryMuscles": ["Rhomboids", "Upper Trapezius"],
+    "equipmentRequired": "cable",
+    "tier": 3,
+    "injuryRiskAreas": [],
+    "cues": [
+      "Set cable pulley at eye height with rope attachment.",
+      "Grip with thumbs pointing back towards you.",
+      "Pull rope towards forehead/bridge of nose while externally rotating shoulders.",
+      "Finish with knuckles facing ceiling and elbows high and wide."
+    ],
+    "commonMistakes": [
+      "Pulling to neck/chest without external rotation",
+      "Leaning backward with momentum"
+    ],
+    "videoUrl": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=800&auto=format&fit=crop&q=60"
+  }
+]
