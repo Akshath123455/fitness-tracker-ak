@@ -1,0 +1,26 @@
+{
+  "name": "apexpulse-ai",
+  "version": "1.0.0",
+  "description": "ApexPulse AI — Adaptive AI Fitness & Strength Benchmarking Web Application",
+  "main": "server/server.js",
+  "scripts": {
+    "server": "cd server && npm start",
+    "server:dev": "cd server && npm run dev",
+    "server:seed": "cd server && npm run seed",
+    "server:test": "cd server && npm test",
+    "client": "cd client && npm run dev",
+    "client:build": "cd client && npm run build",
+    "test": "cd server && npm test"
+  },
+  "keywords": [
+    "fitness",
+    "strength",
+    "benchmarking",
+    "powerlifting",
+    "ai-coach",
+    "periodization",
+    "mern"
+  ],
+  "author": "ApexPulse Team",
+  "license": "MIT"
+}
